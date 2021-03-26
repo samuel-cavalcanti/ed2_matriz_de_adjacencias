@@ -54,6 +54,7 @@ script:
   - cmake ..
   - make -j4
   - ./runUnitTests
+  - make coverage
 
 after_success:
   - bash <(curl -s https://codecov.io/bash) -f coverage.info || echo "Codecov did not collect coverage reports"
