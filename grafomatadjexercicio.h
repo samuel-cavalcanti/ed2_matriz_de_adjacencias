@@ -45,5 +45,4 @@ void inserirVertice(GrafoMatrizAdj* grafo, char* rotuloVertice);
  **/
 bool saoConectados(GrafoMatrizAdj* grafo, char* rotuloVOrigem, char* rotuloVDestino);
 
-
 #endif
