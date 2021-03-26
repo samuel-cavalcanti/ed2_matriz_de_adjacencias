@@ -1,7 +1,7 @@
 # Matriz de Adjacências
 
 ![Travis CI](https://travis-ci.com/samuel-cavalcanti/ed2_matriz_de_adjacencias.svg?branch=main)
-
+[![codecov](https://codecov.io/gh/samuel-cavalcanti/ed2_matriz_de_adjacencias/branch/main/graph/badge.svg)](https://codecov.io/gh/samuel-cavalcanti/ed2_matriz_de_adjacencias)
 ## Notas do professor
 
 Aqui segue um arquivo [grafomatadjexercicio.h](https://github.com/eduardolfalcao/edii/blob/master/src/grafos/grafomatadjexercicio.h)
