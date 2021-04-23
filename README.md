@@ -1,6 +1,6 @@
 # Matriz de Adjacências
 
-![Travis CI](https://travis-ci.com/samuel-cavalcanti/ed2_matriz_de_adjacencias.svg?branch=main)
+[![Build Status](https://www.travis-ci.com/samuel-cavalcanti/ed2_matriz_de_adjacencias.svg?branch=main)](https://www.travis-ci.com/samuel-cavalcanti/ed2_matriz_de_adjacencias)
 [![codecov](https://codecov.io/gh/samuel-cavalcanti/ed2_matriz_de_adjacencias/branch/main/graph/badge.svg)](https://codecov.io/gh/samuel-cavalcanti/ed2_matriz_de_adjacencias)
 ## Notas do professor
 
